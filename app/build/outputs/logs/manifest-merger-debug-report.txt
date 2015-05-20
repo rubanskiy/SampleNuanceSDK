@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:7
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+application
+ADDED from AndroidManifest.xml:6:5
+	android:label
+		ADDED from AndroidManifest.xml:6:48
+	android:debuggable
+		ADDED from AndroidManifest.xml:6:81
+	android:icon
+		ADDED from AndroidManifest.xml:6:18
+activity#com.nuance.nmdp.sample.MainView
+ADDED from AndroidManifest.xml:7:9
+	android:label
+		ADDED from AndroidManifest.xml:8:19
+	android:name
+		ADDED from AndroidManifest.xml:7:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:9:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:10:17
+	android:name
+		ADDED from AndroidManifest.xml:10:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:11:17
+	android:name
+		ADDED from AndroidManifest.xml:11:27
+activity#com.nuance.nmdp.sample.DictationView
+ADDED from AndroidManifest.xml:14:9
+	android:label
+		ADDED from AndroidManifest.xml:15:19
+	android:name
+		ADDED from AndroidManifest.xml:14:19
+activity#com.nuance.nmdp.sample.TtsView
+ADDED from AndroidManifest.xml:17:9
+	android:label
+		ADDED from AndroidManifest.xml:18:19
+	android:name
+		ADDED from AndroidManifest.xml:17:19
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:22:1
+	android:name
+		ADDED from AndroidManifest.xml:22:18
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:23:1
+	android:name
+		ADDED from AndroidManifest.xml:23:18
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:24:1
+	android:name
+		ADDED from AndroidManifest.xml:24:18
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:25:1
+	android:name
+		ADDED from AndroidManifest.xml:25:18
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:26:1
+	android:name
+		ADDED from AndroidManifest.xml:26:18
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:27:1
+	android:name
+		ADDED from AndroidManifest.xml:27:18
+uses-sdk
+ADDED from AndroidManifest.xml:29:1
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:29:11
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_websearch">Websearch</string>
+    <string name="text_endPointer">Endpointer:</string>
+    <string name="radio_endPointerShort">Short</string>
+    <string name="radio_endPointerLong">Long</string>
+    <string name="radio_endPointerNone">None</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_startTts">Get TTS</string>
+    <string name="button_startDictation">Dictate</string>
+    <string name="title_dictation">Test Dictation</string>
+    <string name="title_tts">Test TTS</string>
+    <string name="hello">Hello World, SampleVoiceApp!</string>
+    <string name="app_name">Sample Voice App</string>
+    <string name="title_main">Choose a feature to test</string>
+    <string name="button_dictation">Dictation</string>
+    <string name="button_tts">TTS</string>
+    <string-array name="arr_ttsVoices">
+        <item>Samantha</item>
+        <item>Tom</item>
+    </string-array>
+    
+    <string-array name="languages_code_array">
+        <item>en_US</item>
+        <item>ru_RU</item>
+        <item>es_AR</item>
+        <item>en_AU</item>
+        <item>de_AT</item>
+        <item>bn</item>
+        <item>nl_BE</item>
+        <item>pt_BR</item>
+        <item>bg</item>
+        <item>es-co</item>
+        <item>fr-ca</item>
+        <item>es-co</item>
+        <item>zh_CN</item>
+        <item>cs_CZ</item>
+        <item>da_DK</item>
+        <item>fi_FI</item>
+        <item>fr_FR</item>
+        <item>de_DE</item>
+        <item>en-gb	</item>
+        <item>cy</item>
+        <item>el_GR</item>
+        <item>hu</item>
+        <item>is_IS</item>
+        <item>id_ID</item>
+        <item>he_IL</item>
+        <item>it_IT</item>
+        <item>ja_JP</item>
+        <item>ko_KR</item>
+        <item>no_NO</item>
+        <item>pl</item>
+        <item>pt_PT</item>
+        <item>ro_RO</item>
+        <item>ar_SA</item>
+        <item>sr_CS</item>
+        <item>sk_SK</item>
+        <item>sl_SI</item>
+        <item>eu_ES</item>
+        <item>sv_SE</item>
+        <item>th_TH</item>
+        <item>tr_TR</item>
+        <item>uk_UA</item>
+        <item>vi_VN</item>
+        
+    </string-array>
+    
+    <string-array name="languages_name_array">
+        <item>English – USA</item>
+        <item>Russian</item>
+        <item>Spanish – Argentine</item>
+        <item>English – Australian</item>
+        <item>German – Austrian</item>
+        <item>Bengali</item>
+        <item>Flemish – Dutch</item>
+        <item>Portuguese – Brazil</item>
+        <item>Bulgarian</item>
+        <item>Spanish - Colombian</item>
+        <item>French – Canadian</item>
+        <item>Spanish - Colombian</item>
+        <item>Chineese</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>English – British</item>
+        <item>Welsh</item>
+        <item>Greek</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Indonesian</item>
+        <item>Hebrew</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Arabic-Saudi</item>
+        <item>Serbian</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Basque</item>
+        <item>Swedish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Vietnamese</item>
+        
+    </string-array>
+</resources>

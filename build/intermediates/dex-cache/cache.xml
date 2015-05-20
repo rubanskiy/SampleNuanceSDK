@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Projects\MobEye\SampleVoiceApp\app\libs\nmdp_speech_kit.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="475c8aeb17e316ae7bbdd06467bde10a4abcb1e5">
+        <dex dex="D:\Android\Projects\MobEye\SampleVoiceApp\app\build\intermediates\pre-dexed\debug\nmdp_speech_kit-7ac0e680ed0820f25c9432cb6cd9a4cc6b67330e.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\Projects\MobEye\SampleVoiceApp\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e2d15c1468a232c3f7a41a6dbcb2cb94c085c0ec.jar" />
+    </item>
+
+</items>
